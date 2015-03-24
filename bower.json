@@ -1,0 +1,9 @@
+{
+  "name": "xoxo",
+  "private": true,
+  "dependencies": {
+    "jquery": "*",
+    "bootstrap": "~3.3.4",
+    "backbone": "~1.1.2"
+  }
+}

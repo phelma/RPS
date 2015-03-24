@@ -1,0 +1,67 @@
+.choice
+{
+    font-size: 4em;
+
+    margin: .2em;
+    padding: .2em;
+
+    text-align: center;
+
+    color: #fff;
+    border-radius: .2em;
+    background-color: #7db8ec;
+}
+
+.choice:hover
+{
+    background-color: #bce368;
+}
+.score
+{
+    font-size: 2em;
+
+    padding: .5em 1em;
+
+    text-align: center;
+
+    border-radius: .2em;
+    background-color: #bce368;
+}
+.opponent
+{
+    font-size: 2em;
+
+    padding: .5em 1em;
+
+    text-align: center;
+
+    color: #e39b68;
+    border-radius: .2em;
+    background-color: #e39b68;
+}
+.opponent:hover
+{
+    transition: all 500ms ease-in;
+
+    background-color: #e3a67b;
+}
+.game
+{
+    
+}
+
+.ready
+{
+
+    display: none;
+    font-size: 2em;
+
+    margin: .2em;
+    padding: 1em;
+
+    color: #fff;
+    border-radius: .2em;
+    background-color: #bce368;
+
+    text-align: center;
+}
